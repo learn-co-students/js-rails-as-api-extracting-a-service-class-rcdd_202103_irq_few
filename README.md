@@ -74,7 +74,7 @@ visiting `http://localhost:3000/sightings/2` produces the following set of data:
   },
   "location": {
     "latitude": 30.26715,
-    "longitude": -97.74306
+    "longitude": -97.7430
   }
 }
 ```
