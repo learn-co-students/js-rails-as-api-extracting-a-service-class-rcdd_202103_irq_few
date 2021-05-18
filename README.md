@@ -24,7 +24,8 @@ The files in this lesson were populated using the API-only Rails build. Run
 There are already three resources set up based on where we left off in the
 previous lesson on `include`: birds, locations, and sightings. Birds and
 locations are related together through sightings:
-
+  
+  
 ```rb
 class Bird < ApplicationRecord
   has_many :sightings
